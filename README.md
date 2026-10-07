@@ -2,9 +2,9 @@
   <img src="stellantis_ai_concept.jpg" alt="Industrial AI Voice Assistant Concept" width="100%">
 </div>
 
-# 🏭 Industrial AI Voice Assistant (Stellantis Thesis Project)
+# 🏭 Industrial AI Voice Assistant (Stellantis Project)
 
-> 🔒 **Security Notice:** Due to Non-Disclosure Agreements (NDA) and corporate security policies with Stellantis, the proprietary source code for this project cannot be made public. This repository serves as an architectural overview of the platform developed for my MSc Thesis in Mechatronics Engineering.
+> 🔒 **Security Notice:** Due to Non-Disclosure Agreements (NDA) and corporate security policies with Stellantis, the proprietary source code for this project cannot be made public. This repository serves as an architectural overview of the platform developed for the company.
 
 ## 📌 The Business Challenge
 On the Fiat 500 BEV production line, electricians at the repair area (*Piazzale*) were required to manually enter defect data into a digital SharePoint system. 
